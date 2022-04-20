@@ -1,0 +1,443 @@
+[
+   {
+      "name": "11 неделя",
+      "content": [
+         {
+            "name": "1 задание.cpp",
+            "length": 2244
+         },
+         {
+            "name": "1 задание.exe",
+            "length": 1944658
+         },
+         {
+            "name": "2 задание.cpp",
+            "length": 7857
+         },
+         {
+            "name": "2 задание.exe",
+            "length": 1929761
+         }
+      ]
+   },
+   {
+      "name": "12 неделя",
+      "content": [
+         {
+            "name": "1 задание.cpp",
+            "length": 2175
+         },
+         {
+            "name": "1 задание.exe",
+            "length": 1924014
+         }
+      ]
+   },
+   {
+      "name": "13 неделя",
+      "content": [
+         {
+            "name": "input.txt",
+            "length": 169
+         },
+         {
+            "name": "Теория алгоритмов.cpp",
+            "length": 448
+         }
+      ]
+   },
+   {
+      "name": "15 неделя",
+      "content": [
+         {
+            "name": "Теория алгоритмов.cpp",
+            "length": 930
+         },
+         {
+            "name": "Теория алгоритмов.exe",
+            "length": 1921969
+         }
+      ]
+   },
+   {
+      "name": "3 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 758
+         },
+         {
+            "name": "1 задача.exe",
+            "length": 131861
+         },
+         {
+            "name": "2 задача.cpp",
+            "length": 640
+         },
+         {
+            "name": "2 задача.exe",
+            "length": 131860
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 832
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 131860
+         }
+      ]
+   },
+   {
+      "name": "4 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 965
+         },
+         {
+            "name": "1 задача.exe",
+            "length": 132050
+         },
+         {
+            "name": "2 задача.cpp",
+            "length": 404
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 406
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 1922007
+         },
+         {
+            "name": "теория алгоритмов",
+            "content": [
+               {
+                  "name": "1 задание.cpp",
+                  "length": 1263
+               },
+               {
+                  "name": "1 задание.exe",
+                  "length": 1925243
+               },
+               {
+                  "name": "2 задание.cpp",
+                  "length": 1256
+               },
+               {
+                  "name": "2 задание.exe",
+                  "length": 1925243
+               },
+               {
+                  "name": "test.txt",
+                  "length": 1414179
+               },
+               {
+                  "name": "test2.txt",
+                  "length": 1414179
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "name": "5 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 1126
+         },
+         {
+            "name": "1 задача.exe",
+            "length": 132068
+         },
+         {
+            "name": "2 задача .cpp",
+            "length": 863
+         },
+         {
+            "name": "2 задача .exe",
+            "length": 132549
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 380
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 1921957
+         },
+         {
+            "name": "Алгоритм.cpp",
+            "length": 878
+         },
+         {
+            "name": "Алгоритм.exe",
+            "length": 131861
+         }
+      ]
+   },
+   {
+      "name": "6 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 371
+         },
+         {
+            "name": "2 задача.cpp",
+            "length": 536
+         },
+         {
+            "name": "2 задача.exe",
+            "length": 132548
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 421
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 131173
+         }
+      ]
+   },
+   {
+      "name": "7 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 593
+         },
+         {
+            "name": "1 задача.exe",
+            "length": 132546
+         },
+         {
+            "name": "2 задача.cpp",
+            "length": 465
+         },
+         {
+            "name": "2 задача.exe",
+            "length": 134908
+         },
+         {
+            "name": "2 задача1.cpp",
+            "length": 915
+         },
+         {
+            "name": "2 задача1.exe",
+            "length": 1924904
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 375
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 131688
+         },
+         {
+            "name": "4 задача.cpp",
+            "length": 613
+         },
+         {
+            "name": "4 задача.exe",
+            "length": 1921630
+         },
+         {
+            "name": "test.txt",
+            "length": 92
+         },
+         {
+            "name": "Безымянный1.cpp",
+            "length": 1937
+         },
+         {
+            "name": "Безымянный1.exe",
+            "length": 1922828
+         },
+         {
+            "name": "таблица.cpp",
+            "length": 1668
+         },
+         {
+            "name": "таблица.exe",
+            "length": 1924868
+         }
+      ]
+   },
+   {
+      "name": "8 неделя",
+      "content": [
+         {
+            "name": "1 задача.cpp",
+            "length": 2177
+         },
+         {
+            "name": "1 задача.exe",
+            "length": 1949948
+         },
+         {
+            "name": "2 задача.cpp",
+            "length": 691
+         },
+         {
+            "name": "2 задача.exe",
+            "length": 1922142
+         },
+         {
+            "name": "3 задача.cpp",
+            "length": 1160
+         },
+         {
+            "name": "3 задача.exe",
+            "length": 131861
+         }
+      ]
+   },
+   {
+      "name": "9 неделя",
+      "content": [
+         {
+            "name": "1 алгоритм",
+            "content": [
+               {
+                  "name": "1 алгоритм.cpp",
+                  "length": 801
+               },
+               {
+                  "name": "1 алгоритм.exe",
+                  "length": 1922642
+               },
+               {
+                  "name": "rslt.txt",
+                  "length": 7247
+               },
+               {
+                  "name": "test.txt",
+                  "length": 7427
+               }
+            ]
+         },
+         {
+            "name": "2 алгоритм",
+            "content": [
+               {
+                  "name": "2 алгоритм.cpp",
+                  "length": 1667
+               },
+               {
+                  "name": "2 алгоритм.exe",
+                  "length": 1925364
+               },
+               {
+                  "name": "answers.txt",
+                  "length": 19
+               },
+               {
+                  "name": "rightanswers.txt",
+                  "length": 42
+               }
+            ]
+         },
+         {
+            "name": "2 задание",
+            "content": [
+               {
+                  "name": "calc.h",
+                  "length": 195
+               },
+               {
+                  "name": "lol.cpp",
+                  "length": 2822
+               },
+               {
+                  "name": "lol.exe",
+                  "length": 1923876
+               },
+               {
+                  "name": "print.h",
+                  "length": 445
+               }
+            ]
+         },
+         {
+            "name": "Pervoe zadanie.cpp",
+            "length": 391
+         },
+         {
+            "name": "Pervoe zadanie.exe",
+            "length": 1921630
+         }
+      ]
+   },
+   {
+      "name": "image.bmp",
+      "length": 726,
+      "blob": "Qk3WAgAAAAAAADYAAAAoAAAAEgAAAAwAAAABABgAAAAAAKACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+   },
+   {
+      "name": "test",
+      "content": []
+   },
+   {
+      "name": "Безымянный1.cpp",
+      "length": 836
+   },
+   {
+      "name": "Безымянный1.exe",
+      "length": 6558499
+   },
+   {
+      "name": "Свое",
+      "content": [
+         {
+            "name": "exer.cpp",
+            "length": 68
+         },
+         {
+            "name": "quickSort.cpp",
+            "length": 825
+         },
+         {
+            "name": "quickSort.exe",
+            "length": 6559082
+         },
+         {
+            "name": "Безымянный1.cpp",
+            "length": 245
+         },
+         {
+            "name": "Безымянный1.exe",
+            "length": 6558542
+         },
+         {
+            "name": "Класс больших чисел.cpp",
+            "length": 3298
+         },
+         {
+            "name": "Класс больших чисел.exe",
+            "length": 6562117
+         },
+         {
+            "name": "правильные номера.cpp",
+            "length": 617
+         },
+         {
+            "name": "правильные номера.exe",
+            "length": 6559108
+         },
+         {
+            "name": "ящики.cpp",
+            "length": 1188
+         },
+         {
+            "name": "ящики.exe",
+            "length": 6559047
+         }
+      ]
+   }
+]

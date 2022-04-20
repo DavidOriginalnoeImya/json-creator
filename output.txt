@@ -1,0 +1,29 @@
+[ {
+   name: TestFile1.txt
+   length: 0
+}
+{
+   name: TestFolder1
+   content: [      {
+         name: TestFile2.txt
+         length: 0
+      }
+      {
+         name: TestFile3.txt
+         length: 0
+      }
+   ]
+}
+{
+   name: TestFolder2
+   content: [      {
+         name: TestFile4.txt
+         length: 0
+      }
+      {
+         name: TestFile5.txt
+         length: 0
+      }
+   ]
+}
+ ]
